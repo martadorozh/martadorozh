@@ -2,6 +2,6 @@
 
  - 🎓 Study at: Warsaw University
  - 📚 Major: Big Data
- - 👩🏽‍💻 I’m currently learning: Python, SQL, R
+ - 👩🏽‍💻 Most used languages: Python, SQL, R
  - 📫 How to reach me: martadorozhovets@gmail.com
 
